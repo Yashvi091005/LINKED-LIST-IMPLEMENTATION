@@ -101,3 +101,5 @@ Hands-on Pointer Practice: Helps solidify understanding of pointers and memory a
 The linked_list.c program successfully demonstrates the implementation of a singly linked list using dynamic memory allocation in C. It showcases important concepts such as node creation, pointer manipulation, insertion at the end, deletion by value, and traversal. Written and executed using Visual Studio Code with the GCC compiler, this program serves as a valuable practice for mastering linked lists and low-level data structures.
 
 #OUTPUT: 
+
+![Image](https://github.com/user-attachments/assets/caa03452-be5e-47cd-9e17-65423b30bb51)
